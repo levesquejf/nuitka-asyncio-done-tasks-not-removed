@@ -8,4 +8,4 @@ To test with Python: `./run-native.sh`.
 
 To test with Nuitka: `./run-nuitka.sh`.
 
-After a few minutes, some `done` tasks stay in the `asyncio.Task.all_tasks()` when compiled with Nuitka which is not the case with Python. It usually takes a few minutes to clear on Python.
+After a few hours, some `done` tasks stay in the `asyncio.Task.all_tasks()` when compiled with Nuitka which is not the case with Python. It usually takes a few minutes to clear on Python.
