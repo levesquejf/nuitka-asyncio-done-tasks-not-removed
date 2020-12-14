@@ -5,5 +5,5 @@ name = "pypi"
 
 [packages]
 objgraph = "*"
-nuitka = "*"
 websockets = "*"
+nuitka = "*"
